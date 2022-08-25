@@ -1,0 +1,9 @@
+{
+    "smtp": {
+        "email": "your-email",
+        "password": "your-email-password",
+        "host": "your-email-host",
+        "port": "your-email-host-port"
+    },
+    "port": 4849
+}
